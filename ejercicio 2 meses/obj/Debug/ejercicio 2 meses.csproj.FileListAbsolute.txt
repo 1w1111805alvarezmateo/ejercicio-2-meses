@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\bin\Debug\ejercicio 2 meses.exe.config
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\bin\Debug\ejercicio 2 meses.exe
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\bin\Debug\ejercicio 2 meses.pdb
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio 2 meses.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio_2_meses.Form1.resources
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio_2_meses.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio 2 meses.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio 2 meses.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio 2 meses.exe
+C:\Users\Usuario\Desktop\Usuarios\Mateo\trabajos en visual studio\ejercicio 2 meses\ejercicio 2 meses\obj\Debug\ejercicio 2 meses.pdb
